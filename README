@@ -8,8 +8,9 @@ https://mybinder.org/v2/gh/pibion/magnetic_field_calculations.git/master?filepat
 
 Alternatively, you can clone this code with:
 
-```
+[source, bash]
+----
 $ git clone git@github.com:pibion/magnetic_field_calculations.git
-```
+----
 
 
