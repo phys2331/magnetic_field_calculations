@@ -1,0 +1,15 @@
+= Numerical calculations of magnetic fields
+
+This repository contains code useful for numerically calculating the magnetic field due to some popular current distributions.
+
+You can view and execute this code at:
+
+https://mybinder.org/v2/gh/pibion/magnetic_field_calculations.git/master?filepath=Magnetic_Field_Calc.ipynb
+
+Alternatively, you can clone this code with:
+
+```
+$ git clone git@github.com:pibion/magnetic_field_calculations.git
+```
+
+
