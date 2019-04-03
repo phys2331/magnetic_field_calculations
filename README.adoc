@@ -2,9 +2,9 @@
 
 This repository contains code useful for numerically calculating the magnetic field due to some popular current distributions.
 
-You can view and execute this code at:
+You can view and execute this code by clicking the button below:
 
-https://mybinder.org/v2/gh/pibion/magnetic_field_calculations.git/master?filepath=Magnetic_Field_Calc.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Fpibion%2Fmagnetic_field_calculations%2Fmaster/master)
 
 Alternatively, you can clone this code with:
 
