@@ -4,9 +4,11 @@ This repository contains code useful for numerically calculating the magnetic fi
 
 You can view and execute this code by clicking the button below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Fpibion%2Fmagnetic_field_calculations%2Fmaster/master)
+image:https://mybinder.org/badge_logo.svg["Binder", link="https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Fpibion%2Fmagnetic_field_calculations%2Fmaster/master"]
 
-Alternatively, you can clone this code with:
+Alternatively, you can clone this code and work on the code locally.  I recommend using the Anaconda python distribution if you want to work with the code on your own computer; it's available from https://www.anaconda.com/distribution/.  You should download Python 3.7; Python 2 is deprecated.
+
+To clone the code you should either (a) use a git client such as Aurees to get the code or (b) if you are comfortable working in a terminal, use the following command:
 
 [source, bash]
 ----
