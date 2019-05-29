@@ -15,6 +15,13 @@ To clone the code you should either (a) use a git client such as Aurees to get t
 $ git clone git@github.com:pibion/magnetic_field_calculations.git
 ----
 
+== Specify a custom geometry
+
+To specify where the current source is in space, simply ??.
+
+And then change the file the code points to and everything will automatically work.
+
+
 == Authors & Contributors
 Amy Roberts
 Staci Brown
