@@ -15,4 +15,5 @@ To clone the code you should either (a) use a git client such as Aurees to get t
 $ git clone git@github.com:pibion/magnetic_field_calculations.git
 ----
 
-
+== Authors & Contributors
+Amy Roberts
