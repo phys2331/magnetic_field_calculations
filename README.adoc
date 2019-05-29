@@ -17,3 +17,4 @@ $ git clone git@github.com:pibion/magnetic_field_calculations.git
 
 == Authors & Contributors
 Amy Roberts
+Staci Brown
