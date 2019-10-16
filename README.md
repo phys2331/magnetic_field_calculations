@@ -1,4 +1,4 @@
-= Numerical calculations of magnetic fields
+# Numerical calculations of magnetic fields
 
 This repository contains code useful for numerically calculating the magnetic field due to some popular current distributions.
 
@@ -10,11 +10,10 @@ Alternatively, you can clone this code and work on the code locally.  I recommen
 
 To clone the code you should either (a) use a git client such as Aurees to get the code or (b) if you are comfortable working in a terminal, use the following command:
 
-[source, bash]
-----
+```
 $ git clone git@github.com:pibion/magnetic_field_calculations.git
-----
+```
 
-== Authors & Contributors
+## Authors & Contributors
 Amy Roberts
 Staci Brown
